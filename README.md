@@ -1,5 +1,5 @@
 # cwl (C wrapper lang)
-A language that's pretty much C, but aims to fix some of its memory-safety shortcomings
+A language that's pretty much C99, but aims to fix some of its memory-safety shortcomings. The output is source files in C89.
 
 # TODO
 - [ ] Datatypes for ease of working
