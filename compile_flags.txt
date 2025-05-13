@@ -1,0 +1,9 @@
+-std=c89
+-xc
+-Wall
+-Wextra
+-Wpedantic
+-Wconversion
+-Wconversion-extra
+-Wconversion-null
+-Werror
